@@ -27,13 +27,16 @@
 # Установка
 
 ## Через Package Manager (Git URL)
-- Откройте Package Manager в Unity
-- Нажмите "+" → "Add package from git URL"
-- Введите: https://github.com/yourusername/ClothesSystem.git
+1. Откройте Package Manager в Unity
+2. Нажмите "+" → "Add package from git URL"
+3. Введите: https://github.com/yourusername/ClothesSystem.git
 
 ## Через manifest.json
+```
 {
-  "dependencies": {
+  "dependencies": 
+  {
     "com.yourcompany.clothessystem": "https://github.com/yourusername/ClothesSystem.git#v1.0.0"
   }
 }
+```
