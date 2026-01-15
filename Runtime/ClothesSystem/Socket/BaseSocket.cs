@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace  Wearable
+namespace ClothesSystem.Wearable
 {
     public class BaseSocket : ItemPresenter
     {

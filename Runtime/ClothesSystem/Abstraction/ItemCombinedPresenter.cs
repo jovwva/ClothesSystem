@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Wearable
+namespace ClothesSystem.Wearable
 {
     public class ItemCombinedPresenter<T, G> : ItemPresenter where T : ElementView<G>
     {
