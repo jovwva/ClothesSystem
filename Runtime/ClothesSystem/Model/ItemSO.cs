@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace MyNamespace
+namespace ClothesSystem.Wearable
 {
     [CreateAssetMenu(fileName = "Item_", menuName = "ScriptableObjects/ItemData/ItemRoot", order = 1)]
     public class ItemSO : ScriptableObject
