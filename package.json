@@ -1,1 +1,12 @@
-
+{
+  "name": "com.MadnessStudio.ClothesSystem",
+  "version": "1.0.0",
+  "displayName": "Clothes System",
+  "description": "Система, которая позволяет переодевать 3D модели персонажей",
+  "unity": "2022.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "Rodion Paramonov",
+    "email": "Jovwva@yandex.ru"
+  }
+}
